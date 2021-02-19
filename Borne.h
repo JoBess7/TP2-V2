@@ -1,6 +1,8 @@
 #ifndef BORNE_H
 #define BORNE_H
 
+
+#include "validationFormat.h"
 #include <string>
 
 namespace bornesQuebec {
